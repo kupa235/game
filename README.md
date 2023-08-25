@@ -1,2 +1,2 @@
-# game
+# creepy pong game
 game
